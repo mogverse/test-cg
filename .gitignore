@@ -1,0 +1,10 @@
+*.pyc
+bin/*
+lib/*
+include/*
+*~
+*#
+#*
+.DS_Store
+build/*
+.#*
